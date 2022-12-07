@@ -55,7 +55,7 @@
     "humps": "^2.0.1",
     "husky": "^1.1.2",
     "jest": "^24.0.0",
-    "lint-staged": "^8.1.0",
+    "lint-staged": "^13.1.0",
     "markdown-toc": "^1.2.0",
     "rollup": "^0.57.1",
     "rollup-plugin-babel": "^3.0.2",
